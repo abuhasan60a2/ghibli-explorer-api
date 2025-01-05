@@ -10,7 +10,7 @@
     "vercel-build": "yarn build"
   },
   "engines": {
-    "node": "20.18.0"
+    "node": "18.x"
   },
   "dependencies": {
     "cors": "^2.8.5",
